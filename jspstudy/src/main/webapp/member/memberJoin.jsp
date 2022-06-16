@@ -48,6 +48,7 @@
     	   		break;
     	   	}    	
     	}  
+    	//로그인
     	
     	if (flag == false){
     		alert("한개이상 선택해주세요");

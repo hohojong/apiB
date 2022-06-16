@@ -15,7 +15,7 @@
 //System.out.println("dbconn"+dbconn);
 %>
 DDDDㅋㅋㅋㅋㅋㅇㄴㅁㅇㅁㄴㅇㅋㅋㅋ
-ㅋㅋㅋㅋㅋㅋㅋㅋㅇ인덱스 수정
+ㅋㅋㅋㅋㅋㅋㅋㅋㅇ인덱스 수정ㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a> 
 <a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입</a> 
 <a href="<%=request.getContextPath() %>/member/memberLogin.do">회원로그인</a> 
