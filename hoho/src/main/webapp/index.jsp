@@ -15,5 +15,5 @@
 <a href="<%=request.getContextPath() %>/board/boardList.do">게시판 리스트</a>
 
 
-</body>
+</body>ㄴㅁㅇㅁㅇ
 </html>
