@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
+//ã…‡
 @WebServlet("/FrontController")
 public class FrontController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -16,11 +16,11 @@ public class FrontController extends HttpServlet {
 			
 		String uri = request.getRequestURI();
 		String pj = request.getContextPath();
-		String command = uri.substring(pj.length());  //ÇÁ·ÎÁ§Æ®ÀÌ¸§À» »« ³ª¸ÓÁö °¡»ó°æ·Î ÃßÃâ	
+		String command = uri.substring(pj.length());  //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ì¸ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½	
 		// ex)   /member/memberList.do
 		
 		String[] subpath = command.split("/");
-		String location = subpath[1];        // member ¹®ÀÚ¿­ÀÌ ÃßÃâ
+		String location = subpath[1];        // member ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		
 		if (location.equals("member")) {
 			MemberController mc = new MemberController();
