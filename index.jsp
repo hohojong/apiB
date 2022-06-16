@@ -13,7 +13,7 @@
 <% 
 //Dbconn dbconn = new Dbconn();
 //System.out.println("dbconn"+dbconn);
-%>
+%>ㅇㅁㄴㅇㅁㄴㅇ
 ㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㄴ
 ㅁㄴㅇㄴㅁㅇㅇ
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a> 
