@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body>ZZZZZZZZZZZZZZZㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a> 
 <a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입</a> 
