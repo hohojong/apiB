@@ -14,7 +14,7 @@
 //Dbconn dbconn = new Dbconn();
 //System.out.println("dbconn"+dbconn);
 %>
-ㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇ
+ㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㄴ
 ㅁㄴㅇㄴㅁㅇㅇ
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a> 
 <a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입</a> 
