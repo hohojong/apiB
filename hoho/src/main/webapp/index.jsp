@@ -15,9 +15,7 @@
 <a href="<%=request.getContextPath() %>/board/boardList.do">게시판 리스트</a>
 
 
-<<<<<<< HEAD
+
 </body>
-=======
-</body>ㄴㅁㅇㅁㅇ
->>>>>>> branch 'master' of https://github.com/hohojong/apiB.git
+
 </html>
