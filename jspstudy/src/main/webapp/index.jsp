@@ -8,13 +8,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>메인 페이지 입니다. RLTGJ</h1>
+<h1>메인 페이지 입니다.</h1>
 
 <% 
 //Dbconn dbconn = new Dbconn();
 //System.out.println("dbconn"+dbconn);
 %>
-DDDD
+
 
 <a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a> 
 <a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입</a> 
