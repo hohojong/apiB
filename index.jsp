@@ -10,7 +10,7 @@
 <body>
 <h1>메인 페이지 입니다.</h1>
 
-<% 
+<% dks안녕
 //Dbconn dbconn = new Dbconn();
 //System.out.println("dbconn"+dbconn);
 %>ㅇㅁㄴㅇㅁㄴㅇ
